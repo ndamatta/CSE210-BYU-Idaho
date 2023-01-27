@@ -2,11 +2,11 @@ using System;
 public class Journal 
 {
     public List<Entry> _entries = new List<Entry>();
-    public void displayJournal()
+    public void DisplayJournal()
     {
         foreach (Entry entry in _entries)
         {
-            entry.displayEntry();
+            entry.DisplayEntry();
         }
         
     }
