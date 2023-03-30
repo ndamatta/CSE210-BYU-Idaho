@@ -29,10 +29,10 @@ class Program
 
         for(int i = 0; i < 2; i++)
         {
-            Console.WriteLine($"\nFor Customer Number {i+1} the Order is:");
-            Console.WriteLine("\nPacking Label:\n\n{0}",orders[i].GetPackingLabel()); 
-            Console.WriteLine("Shipping Label:\n\n{0}",orders[i].GetShippingLabel());
-            Console.WriteLine("\nTotal Cost: ${0}\n\n",orders[i].GetTotalCost());
+            Console.WriteLine($"\n-----CUSTOMER N°{i+1} ORDER-----");
+            Console.WriteLine($"PACKING LABEL:\n{orders[i].GetPackingLabel()}"); 
+            Console.WriteLine($"SHIPPING LABEL\n{orders[i].GetShippingLabel()}");
+            Console.WriteLine($"TOTAL COST: ${orders[i].GetTotalCost()}");
         }
     }
 }

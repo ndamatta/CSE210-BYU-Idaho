@@ -43,7 +43,7 @@ public class Order
         int cont = 1;
         foreach(Product product in _products)
         {
-            packingLabel += $"Product Number {cont}:\n   Product Name: {product.GetProductName()}\n   Product ID: {product.GetProductID()}\n   Product Price: ${product.GetIndividualPrice()}\n   Product Quantity: {product.GetQuantity()}\n\n";
+            packingLabel += $"Product N°{cont}:\n   Product Name: {product.GetProductName()}\n   Product ID: {product.GetProductID()}\n   Product Price: ${product.GetIndividualPrice()}\n   Product Quantity: {product.GetQuantity()}\n\n";
             cont += 1;
         }
         return packingLabel;
