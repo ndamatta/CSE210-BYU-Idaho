@@ -1,4 +1,4 @@
-<picture><img src="https://img.shields.io/badge/LIST CALCULATOR-purple?label=c#"></picture><br>
+<picture><img src="https://img.shields.io/badge/LIST CALCULATOR-purple?label=c-sharp"></picture><br>
 <br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 This  program is a console application that lets users input a list of numbers. It then calculates and displays the sum, average, and largest number from the list.<br>
