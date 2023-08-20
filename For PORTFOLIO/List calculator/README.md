@@ -1,5 +1,5 @@
 <picture><img src="https://img.shields.io/badge/FUEL%20USAGE-purple?label=c-sharp"></picture><br>
-This program is not runable in an online IDE.
+<br>
 <br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 This  program is a console application that lets users input a list of numbers. It then calculates and displays the sum, average, and largest number from the list.<br>
