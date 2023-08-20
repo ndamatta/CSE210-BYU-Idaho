@@ -1,0 +1,14 @@
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\bin\Debug\net7.0\ResumeDisplay.exe
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\bin\Debug\net7.0\ResumeDisplay.deps.json
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\bin\Debug\net7.0\ResumeDisplay.runtimeconfig.json
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\bin\Debug\net7.0\ResumeDisplay.dll
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\bin\Debug\net7.0\ResumeDisplay.pdb
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.AssemblyInfoInputs.cache
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.AssemblyInfo.cs
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.csproj.CoreCompileInputs.cache
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.dll
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\refint\ResumeDisplay.dll
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.pdb
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ResumeDisplay.genruntimeconfig.cache
+G:\Other computers\Ryzen5 5600G\BYU\[2] WINTER 2023\CSE 210 (C#)\CSE210-BYU-Idaho\For PORTFOLIO\Resume display\obj\Debug\net7.0\ref\ResumeDisplay.dll
