@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class ListCalculator
 {
     static void Main(string[] args)
     {
