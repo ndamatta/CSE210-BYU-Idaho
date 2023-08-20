@@ -7,6 +7,7 @@ class Program
         List<int> numbers = new List<int>();
 
         int user_number = -1;
+        Console.WriteLine("---LIST CALCULATOR---")
         do {
             Console.Write("Enter a list of numbers, type 0 when finished: ");
             user_number = int.Parse(Console.ReadLine());
