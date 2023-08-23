@@ -1,4 +1,4 @@
-<picture><img src="https://img.shields.io/badge/JOURNAL-purple?label=c-sharp"></picture><br>
+<picture><img src="https://img.shields.io/badge/HIDE SCRIPTURE-purple?label=c-sharp"></picture><br>
 <br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 The program facilitates the memorization of scripture passages by allowing users to interactively hide words in selected verses.<br>
@@ -12,4 +12,4 @@ It consists of four classes: Program, Reference, Scripture, and Word.<br>
 Throughout the program, various programming concepts are showcased, including object creation and interaction, user input handling, data encapsulation, string manipulation, list management, randomization, and conditional logic.<br>
 Overall, the program offers a practical demonstration of interactive text manipulation. It underscores the developer's proficiency in string processing, object-oriented design, user interaction, and the implementation of conditional checks.<br>
 <br>
-Also, there is a .PDF file with the **UML design**, that's where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
+Also, there is a PDF file with the **UML DESIGN**, that's where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
