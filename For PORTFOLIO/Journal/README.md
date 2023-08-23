@@ -11,4 +11,4 @@ It consists of four classes: Program, PromptGenerator, Journal, and Entry.<br>
 <br>
 The program demonstrates various programming concepts: object creation, user input handling, looping, encapsulation, list management, randomization, and file handling. Overall, it serves as a practical example of a journaling application, showcasing my expertise in object-oriented design, encapsulation, user interaction, and file operations.<br>
 <br>
-Also, there is a `.PDF` file where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
+Also, there is a .PDF file where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
