@@ -10,4 +10,6 @@ It consists of five classes: SelfConcious, Activity, BreathingActivity, Reflecti
 * The `ReflectingActivity` class prompts users to reflect on meaningful experiences. It generates prompts and questions for introspection, persuing personal growth. Randomization adds uniqueness to each session.<br>
 * The `ListingActivity` class encourages users to list items based on prompts. Users input responses within a designated time frame, and the program keeps track of the number of items listed.<br>
 <br>
-Key programming concepts showcased encompass object-oriented principles, user interaction, data management, randomization, and time-based interactions. The program underscores my adeptness in creating modular, user-engaging applications that promote relaxation, self-reflection, and personal improvement.
+Key programming concepts showcased encompass object-oriented principles, user interaction, data management, randomization, and time-based interactions. The program underscores my adeptness in creating modular, user-engaging applications that promote relaxation, self-reflection, and personal improvement.<br>
+<br>
+Also, there is a PDF file with the UML DESIGN, that's where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
