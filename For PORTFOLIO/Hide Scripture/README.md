@@ -10,6 +10,6 @@ It consists of four classes: Program, Reference, Scripture, and Word.<br>
 * The `Word` class represents individual words. It allows words to be hidden using the _Hide_ method and checks if a word is hidden using the _IsHidden_ method.<br>
 <br>
 Throughout the program, various programming concepts are showcased, including object creation and interaction, user input handling, data encapsulation, string manipulation, list management, randomization, and conditional logic.<br>
-Overall, the program offers a practical demonstration of interactive text manipulation. It underscores the developer's proficiency in string processing, object-oriented design, user interaction, and the implementation of conditional checks.<br>
+Overall, the program offers a practical demonstration of interactive text manipulation. It underscores my proficiency in string processing, object-oriented design, user interaction, and the implementation of conditional checks.<br>
 <br>
 Also, there is a PDF file with the UML DESIGN, that's where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
