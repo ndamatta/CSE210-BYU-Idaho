@@ -1,15 +1,12 @@
-<picture><img src="https://img.shields.io/badge/SELF CONCIOUS-purple?label=c-sharp"></picture><br>
+<picture><img src="https://img.shields.io/badge/GOAL SETTER-purple?label=c-sharp"></picture><br>
 <br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
-The program's purpose is to offer users a set of interactive activities geared towards relaxation, introspection, and personal development.<br>
-It consists of five classes: SelfConcious, Activity, BreathingActivity, ReflectingActivity, and ListingActivity.<br>
+The program is designed as a versatile goal tracking system with a focus on various goal types and user interaction. It's structured into several classes that work together to provide goal creation, tracking, and management capabilities.<br>
 <br>
-* The `SelfConcious` class acts as the core driver, presenting users with a menu to choose from a range of activities. Users can engage in breathing exercises, reflective sessions, and listing exercises. The program keeps track of activity usage and provides an activity log.<br>
-* The `Activity` class serves as the base for various activities. It encapsulates common features like display, duration management, countdown, and input handling. It sets the foundation for specialized activities.<br>
-* The `BreathingActivity` class focuses on guided breathing exercises. Users set the duration, and the program alternates between inhaling and exhaling prompts. It offers visual cues and feedback throughout the exercise.<br>
-* The `ReflectingActivity` class prompts users to reflect on meaningful experiences. It generates prompts and questions for introspection, persuing personal growth. Randomization adds uniqueness to each session.<br>
-* The `ListingActivity` class encourages users to list items based on prompts. Users input responses within a designated time frame, and the program keeps track of the number of items listed.<br>
+* The `Program` class acts as the core of the application. It initiates the interaction with the user, prompting for their name and creating a user instance. It then presents a menu where users can create new goals, list existing goals, save and load goal progress, record events, and exit the program. This demonstrates the ability to handle user input and manage a dynamic menu system.<br>
+* The `Goal` abstract class serves as the blueprint for different types of goals. It holds common attributes like name, description, points, and completion status. Derived classes like SimpleGoal, EternalGoal, and ChecklistGoal provide specialized implementations for various goal types. This showcases inheritance, abstraction, and polymorphism, fundamental concepts in object-oriented programming.<br>
+* The `User` class is responsible for managing user-specific data. It enables the creation of new goals, display of existing goals, saving and loading goals to/from a file, and recording events related to goal completion. This part of the program emphasizes file I/O, list management, and conditional logic to handle various goal types.<br>
 <br>
-Key programming concepts showcased encompass object-oriented principles, user interaction, data management, randomization, and time-based interactions. The program underscores my adeptness in creating modular, user-engaging applications that promote relaxation, self-reflection, and personal improvement.<br>
+Each specific goal type class, such as SimpleGoal, EternalGoal, and ChecklistGoal, implements its unique behavior while adhering to the shared structure defined in the Goal class. This demonstrates proper encapsulation, method overriding, and specialization based on goal types.<br>
 <br>
-Also, there is a PDF file with the UML DESIGN, that's where I planned and designed my ideas and how I wanted the program to work before I actually started coding. Even though the final design ended up a bit different, it worked as a mockup design of the main goal.
+Overall, the program showcases my proficiency in various programming concepts including user interaction, object-oriented design principles, inheritance, abstraction, polymorphism, file handling, and data management.
